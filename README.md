@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @amantenikko
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning several technologies such as .Net MAUI, Flutter, Unity ...
+<!---- - 👋 Hi, I’m @amantenikko --->
+<!---- - 👀 I’m interested in Software Development --->
+<!---- - 🌱 I’m currently learning several technologies such as .Net MAUI, Flutter, Unity ... --->
 <!---- - 💞️ I’m looking to collaborate on ... --->
 <!---- - 📫 How to reach me ... --->
 
